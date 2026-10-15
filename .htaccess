@@ -1,0 +1,5 @@
+# Keep setup files and notes from being downloaded through the browser.
+<FilesMatch "(?i)\.(sql|md)$">
+  Require all denied
+</FilesMatch>
+Options -Indexes

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Logo">
+  <defs>
+    <linearGradient id="lg" x1="0.2" y1="0.05" x2="0.8" y2="0.95">
+      <stop offset="0" stop-color="#ff967d"/>
+      <stop offset="0.68" stop-color="#e65b44"/>
+      <stop offset="1" stop-color="#ba4937"/>
+    </linearGradient>
+  </defs>
+  <path d="M15.6 0H32.4A15.6 15.6 0 0 1 48 15.6V32.4A15.6 15.6 0 0 1 32.4 48H6A6 6 0 0 1 0 42V15.6A15.6 15.6 0 0 1 15.6 0Z" fill="url(#lg)"/>
+  <path d="M15.6 0H32.4A15.6 15.6 0 0 1 48 15.6V32.4A15.6 15.6 0 0 1 32.4 48H6A6 6 0 0 1 0 42V15.6A15.6 15.6 0 0 1 15.6 0Z" fill="none" stroke="rgba(255,255,255,.3)" stroke-width="1"/>
+  <g transform="translate(7.8 7.8) scale(0.675)" fill="none">
+    <path d="M15 9 7 13 3.5 25l7 3.5 3.3-6.1V40h20.4V22.4l3.3 6.1 7-3.5L41 13l-8-4-4.5 3.2a8 8 0 0 1-9 0L15 9Z" fill="rgba(255,255,255,.22)" stroke="white" stroke-width="2.1" stroke-linejoin="round"/>
+    <path d="M19.5 12.1a6 6 0 0 0 9 0M16 34h16" stroke="white" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="m29 27 3 3-3 3" stroke="#ffe0a8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
